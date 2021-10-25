@@ -1,1 +1,1 @@
-![Romero](./romero.png)
+![Romero](./social.png)
